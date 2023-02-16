@@ -273,11 +273,11 @@ table {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #000000 !important;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #a78e8e !important;
   }
   .label {
     border: 1px solid #000;
